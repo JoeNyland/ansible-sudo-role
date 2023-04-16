@@ -1,5 +1,5 @@
 ---
-- name: Configure SSH
+- name: Configure sudo
   tags: sudo
   become: true
   block:
